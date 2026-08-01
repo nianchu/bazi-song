@@ -21,6 +21,9 @@ description: 用可审计的盲断、反馈、复盘和教学流程分析四柱�
 - 判断职业、学历、出身、感情等专题：读取 [专题象法](references/methods/domain-symbolism.md)。
 - 进行大运流年验证、校时或接受真实反馈：完整读取 [验证与应期协议](references/validation/protocol.md)。
 - 教学、出题或安排学习顺序：读取 [教学大纲](references/teaching/curriculum.md)。
+- 用户表示术语难懂，或询问能量流动、体用、做功、财富事业的入门含义：完整读取 [白话读盘与做功](references/teaching/plain-language-reading.md)，先用公司比喻教学，再引入术语。
+- 分析旬空对根气和合局的影响：读取 [空亡与根气](references/methods/void-and-root.md)，不得把空亡当作五行归零。
+- 比较杨清娟体系与“初十挖国学”等不同框架：读取 [框架比较](references/methods/framework-comparison.md)，清楚标记公开方法、合理推演和本人原话的边界。
 - 新增或更新案例：读取 [案例数据规范](references/library/schema.md)、[规则账本](references/library/rule-ledger.md)和相应案例文件。
 - 查找相似案例：先读 [案例索引](references/library/case-index.md)，只加载有关案例。
 
@@ -36,6 +39,7 @@ description: 用可审计的盲断、反馈、复盘和教学流程分析四柱�
 8. **评分复盘**：列出命中、失误、过断、未验证；说明哪一步推理导致结果。
 9. **更新知识**：只在匿名案例中写入必要事实；规则至少经多个独立案例复验后才提升置信度。
 10. **教学回合**：每次只教一个核心概念，用当前案例示范，再让学习者独立完成小练习。
+11. **白话优先**：若学习者连续追问术语含义，暂停增加新概念；使用“公司—产品—客户—职位”比喻确认其能复述后，再恢复专业术语。
 
 ## 案例更新规则
 
