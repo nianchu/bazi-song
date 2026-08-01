@@ -1,0 +1,4 @@
+interface:
+  display_name: "八字案例教学与复盘"
+  short_description: "基于盲断反馈、应期验证和规则账本持续训练与教学八字案例"
+  default_prompt: "使用 $bazi-case-tutor 分析这个八字案例，先盲断再根据反馈教学复盘。"
