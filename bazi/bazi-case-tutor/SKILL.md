@@ -26,6 +26,8 @@ description: 用可审计的盲断、反馈、复盘和教学流程分析四柱�
 - 分析旬空对根气和合局的影响：读取 [空亡与根气](references/methods/void-and-root.md)，不得把空亡当作五行归零。
 - 用户询问阴阳制衡点、全局偏阴偏阳，或质疑“水既生木为何又能制衡木”：完整读取 [阴阳制衡点](references/methods/yin-yang-balance.md)。必须区分字面阴阳与运行状态阴阳，并将制衡点、直接制约点、流通出口、根基承载和喜用神分开判断。
 - 用户要求汇总清娟体系中的个数、力量、清混浊、连体、格局或做功，或要按该体系完整读一个命局：先完整读取 [清娟体系结构化读盘](references/methods/qingjuan-structured-reading.md)，再按其中路由读取根基计数或阴阳制衡的专题文件。不得把份额数、宫位权重、传统旺衰和格局层次互相替代。
+- 用户询问自然象法中的长木、长金、阳气、真火、嫩金老金，或火对长金的作用：完整读取 [季节生长与火的阳气](references/methods/seasonal-growth-yangqi.md)。必须区分火这一五行载体、阳气这一运行功能，以及火不足、适量、过量三种结果；不得把讲义中的矿藏说法当现代地质事实。
+- 用户提供疾病、癌症、死亡或寿限案例并询问应期：除 [验证与应期协议](references/validation/protocol.md) 外，完整读取 [病灾应期审计](references/validation/health-event-audit.md)。只解释原文内部推导并审计替代解释；禁止从命盘诊断病名、预测死亡，禁止把事后取象计入盲测证据。
 - 用户询问“天干寻根基、地支找出处、全局数个数”、连体、翻出、同源份额或人数计数：完整读取 [根基、出处与份额计数](references/methods/root-source-share.md)。先声明这是特定象法体系，不是传统通根和旺衰的通用规则；严格执行同源去重，不把份额数当五行强度。
 - 比较杨清娟体系与“初十挖国学”等不同框架：读取 [框架比较](references/methods/framework-comparison.md)，清楚标记公开方法、合理推演和本人原话的边界。
 - 新增或更新案例：读取 [案例数据规范](references/library/schema.md)、[规则账本](references/library/rule-ledger.md)和相应案例文件。

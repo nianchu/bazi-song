@@ -8,6 +8,7 @@
 
 - 寻根基、找出处、全局数份额与同源去重：读 [根基、出处与份额计数](root-source-share.md)。
 - 全局状态阴阳与制衡点：读 [阴阳制衡点](yin-yang-balance.md)。
+- 长木长金、火与阳气、真火和季节成熟度：读 [季节生长与火的阳气](seasonal-growth-yangqi.md)。
 - 传统月令、能量流通和分层取用：读 [核心读盘法](core-reading.md)。
 
 ## 一、先分清四种问题
