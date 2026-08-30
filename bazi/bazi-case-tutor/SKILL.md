@@ -29,10 +29,12 @@ description: 用可审计的盲断、反馈、复盘和教学流程分析四柱�
 - 用户询问自然象法中的长木、长金、阳气、真火、嫩金老金，或火对长金的作用：完整读取 [季节生长与火的阳气](references/methods/seasonal-growth-yangqi.md)。必须区分火这一五行载体、阳气这一运行功能，以及火不足、适量、过量三种结果；不得把讲义中的矿藏说法当现代地质事实。
 - 用户提供疾病、癌症、死亡或寿限案例并询问应期：除 [验证与应期协议](references/validation/protocol.md) 外，完整读取 [病灾应期审计](references/validation/health-event-audit.md)。只解释原文内部推导并审计替代解释；禁止从命盘诊断病名、预测死亡，禁止把事后取象计入盲测证据。
 - 用户询问“天干寻根基、地支找出处、全局数个数”、连体、翻出、同源份额或人数计数：完整读取 [根基、出处与份额计数](references/methods/root-source-share.md)。先声明这是特定象法体系，不是传统通根和旺衰的通用规则；严格执行同源去重，不把份额数当五行强度。
+- 用户询问命局层次、清贵、家里好货、养命之源、财富规模或职业社会价值：读取 [清娟命局层次、好货与财富](references/methods/qingjuan-level-wealth.md)，先判断生命状态和交换功能，再讨论行业与财富；不得用清或财星直接保证富贵。
 - 比较杨清娟体系与“初十挖国学”等不同框架：读取 [框架比较](references/methods/framework-comparison.md)，清楚标记公开方法、合理推演和本人原话的边界。
 - 用户明确要求按清娟体系分析“寻根基、找出处、数个数”、清混、家里家外、宫位力量、旺点、太极点、贵点、活木死金、阳气温度或自然成象：完整读取 [清娟自然成象工作法](references/methods/qingjuan-natural-imagery.md)。
 - 新增或更新案例：读取 [案例数据规范](references/library/schema.md)、[规则账本](references/library/rule-ledger.md)和相应案例文件。
 - 查找相似案例：先读 [案例索引](references/library/case-index.md)，只加载有关案例。
+- 用户要求依据公众号法本、比较原文案例或核对某条规则出处：先读 [公众号法本案例目录](references/library/source-case-catalog.md)，再加载对应方法与案例；病灾、死亡、犯罪和财富材料必须保留原文先后顺序及证据标签。
 
 ## 标准工作流
 
